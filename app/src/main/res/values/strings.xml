@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Stock_Price</string>
+    <string name="search_stock_symbol">Search Stock Symbol</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="menu_exit">Exit</string>
+    <string name="searchButtonText">Search for a Stock</string>
+    <string name="popular_stocks">Popular Stocks.</string>
+    <string name="stock_not_list">Your Stock not listed?</string>
+    <string name="stock_symbol_string">Stock Symbol:</string>
+    <string name="stock_name_string">Stock Name:</string>
+    <string name="price_string">Price:</string>
+    <string name="location_string">Location:</string>
+    <string name="save_into_device_string">Save into device</string>
+    <string name="divider">------------------------------------------------------</string>
+    <string name="remove_button_text">Remove from WatchList</string>
+    <string name="sample_stock1_name">Apple Inc.</string>
+    <string name="sample_stock1_symbol">AAPL</string>
+    <string name="sample_stock1_location">United State</string>
+    <string name="sample_stock2_name">Microsoft Corporation</string>
+    <string name="sample_stock2_symbol">MSFT</string>
+    <string name="sample_stock2_location">United State</string>
+    <string name="sample_stock3_name">IBM Common Stock</string>
+    <string name="sample_stock3_symbol">IBM</string>
+    <string name="sample_stock3_location">United State</string>
+    <string name="sample_stock4_name">Tata Steel Limited</string>
+    <string name="sample_stock4_symbol">TATASTEEL.BSE</string>
+    <string name="sample_stock4_location">India/Bombay</string>
+</resources>
